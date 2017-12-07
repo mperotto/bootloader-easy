@@ -11,7 +11,8 @@ Also used is the excellent https://copy.sh/v86/ service that allows you to run a
 
 To create and test the bootloader, access:
 
-[https://www.tutorialspoint.com/execute_bash_online.php](https://www.tutorialspoint.com/execute_bash_online.php)
+http://tpcg.io/Plw5mO
+
 
 And change the code between line four and EOF as you want, then press execute.
 
