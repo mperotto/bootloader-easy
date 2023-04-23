@@ -4,7 +4,7 @@ The easiest way to create your own bootloader OS
 Welcome !
 
 
-The codingground allows you to compile assembly codes only for linux systems, not offering support for creating bootloader.
+The Codingground allows you to compile assembly codes only for linux systems, not offering support for creating bootloader.
 The solution created here was to use shellscript to compile the code inside a stream and then upload it to a file storage service.
 Also used is the excellent https://copy.sh/v86/ service that allows you to run an operating system in the browser.
 
@@ -25,3 +25,7 @@ copy the url above and download image.
 
 Then Start https://copy.sh/v86/ and then select file to
    Floppy disk image,then press 'Start Emulation'
+
+
+
+# Important update: ccurl was removed for Codingground. the script will fail at that point. 
